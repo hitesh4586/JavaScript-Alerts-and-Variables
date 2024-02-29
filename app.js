@@ -1,7 +1,7 @@
 var Name = "Heetesh Kumar";
-var FatherName = "Chetan";
+var FatherName ="Chetan";
 var Surname ="Brahaman";
-var CNIC ="44303-1483143-7";
+var CNIC ="44303-1483143-5";
 
 alert(Name)
 document.write(Name)
